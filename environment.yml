@@ -9,3 +9,4 @@ dependencies:
  - matplotlib=3.4
  - plasmapy=0.6
  - astropy=4.2
+ - pip
